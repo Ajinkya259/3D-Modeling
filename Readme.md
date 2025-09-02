@@ -152,21 +152,6 @@ class QuickSortVisualization(Scene):
 - English prompts only
 - Some complex 3D animations not yet supported
 
-## Future Enhancements
-
-### Planned Features
-- Voice narration with AI-generated speech
-- Support for Three.js and p5.js
-- Template library for common animations
-- Collaborative editing features
-- Mobile app for viewing animations
-
-### Experimental Features
-- Real-time collaborative editing
-- Custom animation styles
-- Interactive animations
-- AR/VR support
-
 ## Why I Built This
 
 As someone who loves educational content but struggled with animation tools, I wanted to make it easier to create high-quality educational animations. Inspired by channels like 3Blue1Brown, I realized that AI could bridge the gap between having an idea and creating a professional animation.
