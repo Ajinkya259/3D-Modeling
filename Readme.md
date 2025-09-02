@@ -239,12 +239,6 @@ The system uses a multi-stage prompt enhancement process:
 
 This is a personal project, but I'm always interested in connecting with others working on similar problems or interested in educational technology.
 
-If you're working on:
-- Educational content creation
-- AI-powered creative tools
-- Animation or visualization systems
-- EdTech innovations
-
 Feel free to reach out: **ajinkyasambare01@gmail.com**
 
 ## Final Thoughts
