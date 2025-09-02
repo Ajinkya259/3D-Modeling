@@ -128,32 +128,6 @@ class QuickSortVisualization(Scene):
 
 **Output**: Professional animation showing the quicksort process step-by-step
 
-## Supported Animation Types
-
-### Mathematics
-- Geometric proofs and constructions
-- Function graphs and transformations
-- Calculus concepts (derivatives, integrals)
-- Linear algebra visualizations
-
-### Computer Science
-- Algorithm visualizations (sorting, searching)
-- Data structure operations
-- Network and graph algorithms
-- Machine learning concepts
-
-### Physics
-- Mechanics simulations
-- Wave and particle animations
-- Electromagnetic field visualizations
-- Quantum mechanics concepts
-
-### General Education
-- Process flows and diagrams
-- Timeline animations
-- Concept explanations
-- Data visualizations
-
 ## Performance Details
 
 ### Rendering Speed
